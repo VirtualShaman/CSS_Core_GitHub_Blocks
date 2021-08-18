@@ -1,0 +1,38 @@
+img {
+    height: 200px;
+}
+body {
+    background-color: mediumpurple;
+}
+h1 {
+    font-size: 50px;
+    margin: 0px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+#row1 {
+    background-color: white;
+    border-radius: 30px;
+    margin: 10px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#row2 {
+    background-color: white;
+    border-radius: 30px;
+    margin: 10px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#row3 {
+    background-color: white;
+    border-radius: 30px;
+    margin: 10px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#dunetocat {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
